@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+}
+
+main {
+background-color: red;
+height: 200px;
+width: 300px;
+margin: auto;
+}
+
+.section1 {
+    background-color: red;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    padding-top: 10px;
+    font-size: 4em;
+}
+h2 {
+    color: white;
+    font-size: 2em;
+}
+
+.section2 {
+background-color: white;
+text-align: center;
+font-family: cursive;
+height: 55px;
+padding-top: 1px;
+}
+
+h3 {
+    color: black;
+}
+
+.section3 {
+    background-color: red;
+    height: 30px;
+}
